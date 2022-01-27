@@ -4,7 +4,7 @@ description: Avalanche üzerinde validasyon veya delegasyon ile nasıl stake ede
 
 # Staking
 
-Staking veya stake etme, bir network'e destek olmak amacıyla tokenları kilitleme ve bunun karşılığında bir ödül alma sürecidir.\(Örneğin bu ödül, parasal bir karşılık olabilir.\) Staking konseptini, [resmi olarak ilk kez] (https://web.archive.org/web/20160306084128/https://peercoin.net/assets/paper/peercoin-paper.pdf) Peercoin’den Sunny King ve Scott Nadal sunmuştur.
+Staking veya stake etme, bir network'e destek olmak amacıyla tokenları kilitleme ve bunun karşılığında bir ödül alma sürecidir.\(Örneğin bu ödül, parasal bir karşılık olabilir.\) Staking konseptini, resmi olarak ilk kez Peercoin’den Sunny King ve Scott Nadal [sunmuştur](https://web.archive.org/web/20160306084128/https://peercoin.net/assets/paper/peercoin-paper.pdf).
 
 ### Proof-of-stake nasıl çalışır?
 
